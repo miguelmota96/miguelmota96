@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Miguel Mota
 
--  No momento estou em busca da minha primeira vaga como front-end
--  Estudando HTML, CSS e JavaScript
+-  Em busca da minha primeira vaga como front-end
+-  No momento estudando HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/miguelmota96">
