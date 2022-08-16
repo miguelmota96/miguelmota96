@@ -1,8 +1,7 @@
 ## Olá!! Eu sou o Miguel Mota
 
 -  Em busca da minha primeira vaga como desenvolvedor de Software
--  Estudando Delphi e C#
-- Conhecimentos em Javascript
+-  Estudando Delphi e Javascript
 
 <div align="center">
   <a href="https://github.com/miguelmota96">
@@ -14,7 +13,6 @@
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Miguel-Delphi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg">
-  <img align="center" alt="Miguel-C#" height="30" width="40" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg">
 </div>
   
   ##
