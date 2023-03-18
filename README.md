@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Miguel Mota
 
 -  Em busca da minha primeira vaga como desenvolvedor de Software
--  Estudando Delphi e Javascript
+-  Estudando HTML,CSS e Javascript
 
 <div align="center">
   <a href="https://github.com/miguelmota96">
