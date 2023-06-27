@@ -2,7 +2,7 @@
 
 -  Em busca da minha primeira vaga como Desenvolvedor de Software
 -  Formado em Analise e Desenvolvimento de Sistemas
--  Estudando Python, Pandas, Django e SQL
+-  Estudando Desenvolvimento Mobile Android | Kotlin
 
 <div align="center">
   <a href="https://github.com/miguelmota96">
@@ -10,11 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmota96&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+    <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
 </div>
   
   ##
