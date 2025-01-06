@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Miguel Mota
 
-Sou formado em Análise e Desenvolvimento de Sistemas, com sólida base em SQL, sempre em busca de aprender e aplicar novas tecnologias. Atualmente, estou me dedicando aos estudos para me tornar um profissional de QA (Quality Assurance) de alto escalão, com foco em automação de testes.
+Sou formado em Análise e Desenvolvimento de Sistemas, com sólida base em SQL, sempre em busca de aprender e aplicar novas tecnologias. Atualmente, estou me dedicando aos estudos para me tornar um profissional de QA  Engineer de alto escalão.
 
 Atualmente, trabalho como Supervisor Técnico de Suporte, onde a experiência adquirida ao longo do tempo me ajudou a desenvolver um forte senso crítico, sempre buscando a melhoria contínua do software a partir da perspectiva do usuário. Essa vivência me ensinou a importância de entender as necessidades do cliente, solucionar problemas de forma eficiente e entregar soluções que realmente atendam às expectativas dos usuários.
 
