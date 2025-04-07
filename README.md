@@ -1,8 +1,6 @@
 ## Olá!! Eu sou o Miguel Mota
 
-Sou formado em Análise e Desenvolvimento de Sistemas, com sólida base em SQL, sempre em busca de aprender e aplicar novas tecnologias. Atualmente, estou me dedicando aos estudos para me tornar um profissional de QA  Engineer de alto escalão.
-
-Atualmente, trabalho como Supervisor Técnico de Suporte, onde a experiência adquirida ao longo do tempo me ajudou a desenvolver um forte senso crítico, sempre buscando a melhoria contínua do software a partir da perspectiva do usuário. Essa vivência me ensinou a importância de entender as necessidades do cliente, solucionar problemas de forma eficiente e entregar soluções que realmente atendam às expectativas dos usuários.
+Sou formado em Análise e Desenvolvimento de Sistemas, com conhecimentos em SQL, sempre em busca de aprender e aplicar novas tecnologias. Atualmente, estou me dedicando aos estudos para me tornar um profissional de QA  Engineer de alto escalão.
 
 Estou me especializando em automação de testes e tenho uma verdadeira paixão por assegurar a qualidade e a excelência dos sistemas. Estou sempre em busca de me atualizar com as ferramentas mais avançadas e as metodologias mais eficazes do mercado.
 
@@ -14,7 +12,8 @@ Estou em busca da minha primeira oportunidade como QA, onde poderei aplicar o me
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmota96&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <a href = "mailto:mgmota19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align"center" alt="Miguel-Cy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cypressio/cypressio-original.svg">
+    <img align"center" alt="Miguel-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg">
 </div>
   
   ##
